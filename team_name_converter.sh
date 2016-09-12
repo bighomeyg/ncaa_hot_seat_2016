@@ -1,0 +1,11 @@
+sed -i 's|Southern Cal|USC|g' *records.csv
+sed -i 's|Southern Methodist|SMU|g' *records.csv
+sed -i 's|Kent,|Kent State,|g' *records.csv
+sed -i 's|Florida International|FIU|g' *records.csv
+sed -i 's|Texas-El Paso|UTEP|g' *records.csv
+sed -i 's|South Florida|USF|g' *records.csv
+sed -i 's|Nevada-Las Vegas|UNLV|g' *records.csv
+sed -i 's|Louisiana State|LSU|g' *records.csv
+sed -i 's|Brigham Young|BYU|g' *records.csv
+sed -i 's|Texas Christian|TCU|g' *records.csv
+sed -i 's|Florida Atlantic|FAU|g' *records.csv
